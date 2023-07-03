@@ -1,0 +1,9 @@
+{
+  "user": {
+    "notfound": {
+      "byid": "User not found by id = {id}"
+    }
+  },
+  "badparams": "Bad parameters",
+  "unique_constraint_exception": "Unique constraint exception"
+}

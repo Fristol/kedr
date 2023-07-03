@@ -1,0 +1,9 @@
+{
+    "user": {
+        "notfound": {
+            "byid": "Покупатель с id = {id} не найден"
+        }
+    },
+    "badparams": "Переданы некорректные параметры",
+    "unique_constraint_exception": "Ошибка уникальности"
+}
